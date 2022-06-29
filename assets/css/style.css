@@ -13,6 +13,10 @@ body {
   color: #272829;
 }
 
+img{
+  border-radius: 10px;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
